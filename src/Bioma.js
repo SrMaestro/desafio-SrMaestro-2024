@@ -6,7 +6,7 @@ const Bioma = [
         animaisExistentes: ["3 macacos"]
     },
     {
-        numero: 2,
+        numero: 2,                                                                                                                                              
         bioma: "floresta",
         tamanhoTotal: 5,
         animaisExistentes: [""]
@@ -24,10 +24,11 @@ const Bioma = [
         animaisExistentes: [""]
     },
     {
-        numero: savana,
-        bioma: "floresta",
+        numero: 5,
+        bioma: "savana",
         tamanhoTotal: 9,
-        animaisExistentes: [" 1 leao"]
+        animaisExistentes: [" 1 leao "]
     }
 ]
 
+console.log(Bioma[0].bioma)
