@@ -120,4 +120,3 @@ const zoo = new RecintosZoo();
 console.log(zoo.analisaRecintos('macaco', 2));
 console.log(zoo.analisaRecintos('leao', 1));
 console.log(recintos);
-
